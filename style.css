@@ -1,0 +1,120 @@
+body {
+    height: 100%;
+    background: linear-gradient(to left, rgb(179, 238, 179),rgb(248, 248, 233) ,#e0f3c4 )
+
+    
+}
+
+.logo{
+    width: 100px;
+    height: 50px;
+}
+nav{
+  display: flex;
+  padding: 20px;
+ 
+
+}
+section{
+    display: grid;
+}
+.ac{
+    margin-left: 100px;
+    text-decoration: none;
+    color:rgb(22, 204, 22) ;
+}
+.meilleur{
+    margin-left: 200px;
+    text-decoration: none;
+    color:rgb(21, 214, 21);
+}
+.vente{
+    margin-left: 300px;
+    text-decoration: none;
+    color: rgb(24, 204, 24);
+}
+a{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    
+}
+.SLOGAN{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    color: #3aeb0e;
+    
+
+}
+
+.I1 {
+    
+    width: 300px;
+    height: 200px;
+    border: 5px;
+}
+.I2{
+    width: 300px;
+    height: 200px;
+    border: 5px; 
+}
+.I3{
+    width: 300px;
+    height: 200px;
+    border: 5px; 
+}
+.I4{
+    width: 300px;
+    height: 200px;
+    border: 5px; 
+}
+.element{
+    display: flex;
+    gap: 10px;
+    border: 3px solid;
+    justify-content: center;
+    padding: 20px;
+    
+}
+.plante{
+display: grid;
+grid-template-columns: repeat(2,600px);
+
+
+border: 3px solid;
+justify-items: center;
+padding: 20px;
+   
+}
+.I5{
+    width: 300px;
+    height: 200px;
+    border: 5px; 
+}
+.I6{
+    width: 300px;
+    height: 200px;
+    border: 5px; 
+}
+
+
+.mot{
+   font-size: 40px;
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   font-style: italic;
+   text-align: center;
+}
+.span{
+   display: inline-flex;
+   gap: 20%;
+ 
+}
+.image{
+    width: 300px;
+    height: 100px;
+}
+.contenue{
+    display: flex;
+    text-decoration: none;
+}
+
+
